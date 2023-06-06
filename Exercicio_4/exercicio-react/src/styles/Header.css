@@ -1,0 +1,7 @@
+.Header {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 15px;
+  background-color: rgb(30, 42, 42);
+  color:azure;
+}
